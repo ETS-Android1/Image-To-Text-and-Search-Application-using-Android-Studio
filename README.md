@@ -2,7 +2,7 @@
 
 
 **IDE: Android Studio 4.1.3<br />
-Firebase Authentication **
+Firebase Authentication**
 
 **Description:**
 - The app can pull and process text from images — including both actual photos you've taken and screenshots you've captured.
